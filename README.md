@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @researchinnovations-ashley
-- 👀 I’m interested in AIML and reverse engineering experts
+- 👀 I’m interested in offensive cyber experts
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on finding you your next job
 - 📫 How to reach me acarter@researchinnovations.com
